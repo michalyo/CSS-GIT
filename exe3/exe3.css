@@ -7,6 +7,38 @@
 .traingular{
     width: 0;
     height: 0;
-    border-top: 100px solid rgb(82, 180, 37);
-    border-right: 100px solid transparent
+    border-top: 300px solid rgb(179, 255, 143);
+    border-right: 300px solid transparent
 }
+/* 
+.tringle{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(241, 241, 141);
+    position: relative;
+}
+
+.tringle::after{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 150%;
+    background-color: #fff;
+    transform: rotate(45deg);
+    left: 100px;
+    top: 0px;
+}
+
+.tringle{
+    width: 0;
+    height: 0;
+    border-top: 300px solid green;
+    border-right: 300px solid transparent;
+}
+
+.tringle{
+    width: 500px;
+    height: 500px;
+    clip-path: polygon(50% 0%, 0 0, 0 38%);
+    background-color: aquamarine;
+} */
